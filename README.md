@@ -16,7 +16,9 @@ Anything related to enhancing security in the tech landscape
 📫 Connect with Me:
 
 GitHub: NapoleonMusonera
+
 LinkedIn: Napoleon Musonera
+
 Slack: Eng.naps89@yahoo.com
 
 
