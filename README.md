@@ -16,6 +16,8 @@ Anything related to enhancing security in the tech landscape
 GitHub: NapoleonMusonera
 LinkedIn: Napoleon Musonera
 Slack: Eng.naps89@yahoo.com
+
+
 ⚡ Fun Fact: I love all things security, enjoy a good BBQ, and have a passion for endurance bike riding.
 
 About Me:
