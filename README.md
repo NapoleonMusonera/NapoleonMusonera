@@ -15,11 +15,13 @@ CNCF chapter engagement
 Anything related to enhancing security in the tech landscape
 📫 Connect with Me:
 
-GitHub: NapoleonMusonera
+GitHub:    [NapoleonMusonera] (https://github.com/NapoleonMusonera)
 
-LinkedIn: Napoleon Musonera
+LinkedIn: [Napoleon Musonera] (https://www.linkedin.com/in/napoleon-musonera-17344784/)
 
-Slack: Eng.naps89@yahoo.com
+Slack:      [Napoleon Musonera] Eng.naps89@yahoo.com
+
+Cncf.io:  [nmusonera] (https://community.cncf.io/u/mrd7fx/#/about)
 
 
 ⚡ Fun Fact: I love all things security, enjoy a good BBQ, and have a passion for endurance bike riding.
