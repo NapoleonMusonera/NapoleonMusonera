@@ -37,7 +37,5 @@ I have supported U.S. Air Force programs like the Big Safari Program and the 7th
 
 Security engineering design, testing, configuration, and management.
 Maintenance of classified and unclassified environments.
-Serving as a NSA System Administrator and Cyber Security Management Server point of contact.
-I hold a DoD Top Secret/SCI with Polygraph clearance and have multiple CompTIA certifications.
 
 My ultimate goal is to enable and empower teams to deliver secure, innovative solutions for the aerospace and defense sectors.
